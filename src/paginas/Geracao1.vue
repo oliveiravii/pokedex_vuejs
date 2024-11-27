@@ -64,7 +64,7 @@ onMounted(loadPokemons)
 <template>
   <body>
     <div v-if="isLoading" class="carregamento">
-      <img src="../complementos/Carregamento.gif" alt="Carregando Pokémon" />
+      <img src="../complementos/carregamento.gif" alt="Carregando Pokémon" />
     </div>
 
     <main v-if="!isLoading" class="container">
