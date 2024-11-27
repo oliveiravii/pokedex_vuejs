@@ -2,7 +2,7 @@
 
 ## Descrição 📜
 
-Este projeto é uma **Pokedex** interativa desenvolvida com **Vue.js** e estilizada utilizando o **Bootstrap**. Ele permite buscar e visualizar informações sobre Pokémon, como nome, imagem, tipo e habilidades. A aplicação consome dados da API pública do [PokéAPI](https://pokeapi.co/), oferecendo uma interface simples e dinâmica para explorar o mundo Pokémon.
+Este projeto é uma [**Pokedex**](https://projetopokedexvue.netlify.app/) interativa desenvolvida com **Vue.js** e estilizada utilizando o **Bootstrap**. Ele permite buscar e visualizar informações sobre Pokémon, como nome, imagem, tipo e habilidades. A aplicação consome dados da API pública do [PokéAPI](https://pokeapi.co/), oferecendo uma interface simples e dinâmica para explorar o mundo Pokémon.
 
 A ideia deste projeto é ser uma introdução à criação de SPAs (Single Page Applications) com Vue.js e demonstrar como consumir APIs externas e exibir dados de maneira reativa e interativa.
 
